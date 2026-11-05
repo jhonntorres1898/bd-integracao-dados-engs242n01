@@ -6,12 +6,12 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** Equipe Maromba____________________
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
+|Jhonn Torres | 2420199| Jhonntorres1898|
+|Calvin Vinícius |  |Calvinvns|
+|Gustavo Brandão |  |gustavobrandao1929 |
 |  |  |  |
 
 ## O cenário
